@@ -1,6 +1,6 @@
-# API Automation
+# UI Automation
 
-Testing API Automation
+Testing UI Automation
 
 
 ## Teknologi yang digunakan
