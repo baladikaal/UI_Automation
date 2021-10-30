@@ -30,7 +30,7 @@ Testing UI Automation
 
   <img src="https://user-images.githubusercontent.com/74690318/139520460-1ba4e6eb-1697-48b2-8bc8-c45ff1df8ada.png" width="500">
 
-- Selanjutnya ketikkan perintah di bawah untuk periapan library yang akan di gunakan
+- Selanjutnya ketikkan perintah di bawah untuk persiapan library yang akan di gunakan
   
   `npm init -y` atau secara default `npm init -y`
   
